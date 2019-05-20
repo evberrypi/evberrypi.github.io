@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+When I am not fussing with Kubernetes or writing Terraform Tests, I am playing with single board computers.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Coming Soon
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[hello@everettlacey.com](mailto:hello@everettlacey.com)
